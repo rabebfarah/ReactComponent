@@ -1,0 +1,36 @@
+
+
+
+
+.Navbar{
+    padding-bottom: 50px;
+    margin-left: 200px;
+   
+}
+.HOME{
+    color:	rgb(89, 104, 241);
+    font-weight: bold;
+    font-family: Georgia, serif;
+    font-size: 25px;
+    opacity: 20px;
+    margin-left: 200px;
+    margin-left: 200px;
+}
+.contact{
+  
+    margin-left: -13px;
+    margin-right: -151px;
+    font-weight: bold;
+    font-family: Georgia, serif;
+    font-size: 25px;
+    opacity: 20px;
+}
+.PROJECT{
+    color:	rgb(89, 104, 241);
+    font-weight: bold;
+    font-family: Georgia, serif;
+    font-size: 25px;
+    opacity: 20px; 
+    margin-left: 86px;
+    margin-right: 119px;
+}

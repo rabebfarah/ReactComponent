@@ -1,0 +1,14 @@
+footer{
+    position:fixed;
+    left:0;
+    bottom: 0;
+    width: 1584px;
+    height:42px ;
+    text-align: center;
+    font-weight: bold;
+    font-family: Georgia, serif;
+    font-size: 20px;
+    line-height: 30px;
+    opacity: 70px;
+    color:	rgb(13, 14, 14);
+}
